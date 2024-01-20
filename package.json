@@ -1,0 +1,19 @@
+{
+  "name": "quantum-stories",
+  "version": "1.0.0",
+  "description": "A JavaScript module for creating a story carousel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereiraisaiah21/Quantum-Stories.git"
+  },
+  "author": "Pereiraisaiah21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pereiraisaiah21/Quantum-Stories/issues"
+  },
+  "homepage": "https://github.com/pereiraisaiah21/Quantum-Stories#readme"
+}

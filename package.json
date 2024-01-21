@@ -1,6 +1,6 @@
 {
   "name": "quantum-stories",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A JavaScript module for creating a story carousel.",
   "main": "lib/index.js",
   "scripts": {

@@ -10,7 +10,6 @@ body {
     margin: 0 !important;
 }
 
-
 .slider {
     background-color: rgba(0, 0, 0, 0.863);
     display: flex;
@@ -58,7 +57,11 @@ body {
 
 .slider__navbar__item {
     background-color: #b3b3b3ad;
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.74) 50%, transparent 50%);
+    background-image: linear-gradient(
+        to right,
+        rgba(255, 255, 255, 0.74) 50%,
+        transparent 50%
+    );
     background-position: 100% 0;
     background-size: 200% 100%;
     border-radius: 3px;
@@ -107,6 +110,7 @@ body {
     display: inline-flex;
     flex-grow: 1;
     padding: 0.2rem 0;
+    text-align: left;
 
     div {
         color: white;

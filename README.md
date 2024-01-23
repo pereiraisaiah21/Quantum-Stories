@@ -10,6 +10,13 @@ To integrate Quantum Stories into your project, simply use npm:
 npm install quantum-stories
 ```
 
+## Features
+
+1. Adding Story Grouping
+2. Forward and Backward Navigation
+3. Exiting the Screen
+4. Hold-to-View Stories
+
 ## Usage Example
 
 ```javascript

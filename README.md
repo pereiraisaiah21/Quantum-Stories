@@ -75,6 +75,8 @@ const storiesCarousel = new QuantumStories('.slider', myStories)
 
 ```
 
+Exemple: https://github.com/pereiraisaiah21/Quantum-Stories-Usage
+
 ## License
 
 This project is licensed under the ISC License - see the LICENSE file for details.
